@@ -1,0 +1,11 @@
+.login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Tamanho total da viewport */
+}
+
+body{
+  background-color: #2D3250;
+}
